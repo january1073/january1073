@@ -8,9 +8,11 @@ It's not much yet -- but there is more to come soon ...
 
 ## Key interests
 
-    🖥️ Computers & Law
-    🔒 Information Security
-    🤖 AI in Cybersecurity
+🖥️ Computers & Law
+
+🔒 Information Security
+
+🤖 AI in Cybersecurity
 
 ## Skills (more or less ...)
 
