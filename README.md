@@ -1,4 +1,4 @@
-# Hi there!👋（中文版本请见下方。👇）
+# Hi there!👋（中文版本请见下方👇）
 
 I'm Tim and a lawyer specialising in information security.
 
