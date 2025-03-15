@@ -6,7 +6,7 @@ In my spare time I try to code a little. Here I share what works. Although I wor
 
 ## Key Interests
 
-    🏛 Computers & Law
+    🖥️ Computers & Law
     🔐 Information Security
     🤖 AI in Cybersecurity
 
