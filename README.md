@@ -1,17 +1,13 @@
-Hi there! 👋 I'm january1073
+# Hi there!
 
-⚖️ Lawyer | Tech Enthusiast | Cybersecurity Advocate
+👋 I'm january1073 and a lawyer specialising in information security.
 
-With a strong foundation in law and information security, I merge legal expertise with technology-driven solutions.
+In my spare time I try to code a little. Here I share what works. Although I work with GenAI a lot on a daily basis, the code, scripts and snippets shared here are 💯% handmade.
 
-🔹 Key Interests
+## Key Interests
 
     🏛 Computers & Law
     🔐 Information Security
     🤖 AI in Cybersecurity
 
-🏆 Recognized by Handelsblatt & Best Lawyers: Ones to Watch in Germany (2023-2025)
-
-📚 Author: The Chinese Social Credit System for Companies – Background and Practical Tips
-
-📩 Let's connect: [...]
+📩 Let's connect!
