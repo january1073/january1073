@@ -20,7 +20,7 @@ It's not much yet -- but there is more to come soon ...
 
 ![Linux](https://img.shields.io/badge/Linux-808080?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-808080?style=flat-square&logo=windows&logoColor=black) ![Networking](https://img.shields.io/badge/Networking-000000?style=flat-square&logo=network&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP/IP-000000?style=flat-square&logo=internet-explorer&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-FFFFFF?style=flat-square&logo=latex&logoColor=black)
 
-## Publications
+## Publication
 
 * The Chinese Social Credit System for Companies - Background and Practical Tips (in German language), in: Everling (ed.), Social Credit Rating - Reputation und Vertrauen beurteilen, Wiesbaden 2020: [Go to publication](https://www.springerprofessional.de/das-chinesische-sozialkreditsystem-fuer-unternehmen-hintergruend/18635734 "Go to publication")
 
