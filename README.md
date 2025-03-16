@@ -22,12 +22,10 @@ Let's connect!
 
 ![Linux](https://img.shields.io/badge/Linux-808080?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-808080?style=flat-square&logo=windows&logoColor=black) ![Networking](https://img.shields.io/badge/Networking-000000?style=flat-square&logo=network&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP/IP-000000?style=flat-square&logo=internet-explorer&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-FFFFFF?style=flat-square&logo=latex&logoColor=black)
 
-## Publication
-
-* The Chinese Social Credit System for Companies - Background and Practical Tips (in German language), in: Everling (ed.), Social Credit Rating - Reputation und Vertrauen beurteilen, Wiesbaden 2020: <a href="https://www.springerprofessional.de/das-chinesische-sozialkreditsystem-fuer-unternehmen-hintergruend/18635734" target="_blank">Publication (in German language)</a>
-
-[Go to publication](https://www.springerprofessional.de/das-chinesische-sozialkreditsystem-fuer-unternehmen-hintergruend/18635734 "Go to publication")
-
 ## Certificates
 
 [![Cybersecurity Analyst](https://img.shields.io/badge/Cybersecurity%20Analyst-IBM-121FCF?style=flat-square)](https://www.ibm.com/) [![Certified in Cybersecurity](https://img.shields.io/badge/Certified%20in%20Cybersecurity-ISC2-00A15D?style=flat-square)](https://www.isc2.org/)
+
+## Publication
+
+* The Chinese Social Credit System for Companies - Background and Practical Tips (in German language), in: Everling (ed.), Social Credit Rating - Reputation und Vertrauen beurteilen, Wiesbaden 2020: [Go to publication](https://www.springerprofessional.de/das-chinesische-sozialkreditsystem-fuer-unternehmen-hintergruend/18635734 "Go to publication (German language)")
