@@ -1,6 +1,6 @@
 # Hi there!👋
 
-I'm Tim and a lawyer specialising in information security.
+I'm Tim, a lawyer specialising in information security.
 
 In my spare time I try to code a little. Here I share what works. Although I use GenAI a lot, the code, scripts, and snippets shared here are 💯% handmade.
 
