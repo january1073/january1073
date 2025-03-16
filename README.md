@@ -2,9 +2,11 @@
 
 I'm Tim, a lawyer specialising in information security.
 
-In my spare time I try to code a little. Here I share what works. Although I use GenAI a lot, the code, scripts, and snippets shared here are 💯% handmade.
+In my spare time I attempt to code a little. Here I share what works. Although I use GenAI a lot, the code, scripts, and snippets shared here are 💯% handmade.
 
 It's not much yet -- but there is more to come soon ...
+
+Let's connect!
 
 ## Key interests
 
