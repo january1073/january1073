@@ -24,9 +24,9 @@ Let's connect!
 
 ## Publication
 
-* The Chinese Social Credit System for Companies - Background and Practical Tips (in German language), in: Everling (ed.), Social Credit Rating - Reputation und Vertrauen beurteilen, Wiesbaden 2020: [Go to publication](https://www.springerprofessional.de/das-chinesische-sozialkreditsystem-fuer-unternehmen-hintergruend/18635734 "Go to publication")
+* The Chinese Social Credit System for Companies - Background and Practical Tips (in German language), in: Everling (ed.), Social Credit Rating - Reputation und Vertrauen beurteilen, Wiesbaden 2020: <a href="https://www.springerprofessional.de/das-chinesische-sozialkreditsystem-fuer-unternehmen-hintergruend/18635734" target="_blank">Publication (in German language)</a>
 
-
+[Go to publication](https://www.springerprofessional.de/das-chinesische-sozialkreditsystem-fuer-unternehmen-hintergruend/18635734 "Go to publication")
 
 ## Certificates
 
