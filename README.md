@@ -2,7 +2,7 @@
 
 I'm Tim, a lawyer specialising in information security.
 
-In my spare time I attempt to code a little. Here I share what works. Although I use GenAI a lot (incredibly useful for troubleshooting), the code, scripts, and snippets shared here are 💯% handmade.
+In my spare time I attempt to code a little. Here I share what works. Although I use GenAI a lot (incredibly useful for troubleshooting!), the code, scripts, and snippets shared here are 💯% handmade.
 
 It's not much yet -- but there is more to come soon ...
 
@@ -25,7 +25,3 @@ Let's connect!
 ## Certificates
 
 [![Cybersecurity Analyst](https://img.shields.io/badge/Cybersecurity%20Analyst-IBM-121FCF?style=flat-square)](https://www.ibm.com/) [![Certified in Cybersecurity](https://img.shields.io/badge/Certified%20in%20Cybersecurity-ISC2-00A15D?style=flat-square)](https://www.isc2.org/)
-
-## Publication
-
-* The Chinese Social Credit System for Companies - Background and Practical Tips (in German language), in: Everling (ed.), Social Credit Rating - Reputation und Vertrauen beurteilen, Wiesbaden 2020: [Go to publication](https://www.springerprofessional.de/das-chinesische-sozialkreditsystem-fuer-unternehmen-hintergruend/18635734 "Go to publication (German language)")
