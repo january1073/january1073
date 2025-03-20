@@ -1,6 +1,3 @@
-![Banner](./banner.jpg)
-
-
 # Hi, there!👋
 
 I am Tim, a legal professional with a strong focus on information security.
