@@ -24,4 +24,4 @@ It's not much yet -- but there is more to come soon ...
 
 ## Certificates
 
-[![Cybersecurity Analyst](https://img.shields.io/badge/Cybersecurity%20Analyst-IBM-121FCF?style=flat-square)](https://www.ibm.com/) [![Certified in Cybersecurity](https://img.shields.io/badge/Certified%20in%20Cybersecurity-ISC2-00A15D?style=flat-square)](https://www.isc2.org/) [![Applied Cryptography](https://img.shields.io/badge/Applied%20Cryptography-UCCS-black?style=flat-square&logoColor=yellow)](https://www.uccs.edu/)
+[![Applied Cryptography](https://img.shields.io/badge/Applied%20Cryptography-UCCS-black?style=flat-square&logoColor=yellow)](https://www.uccs.edu/) [![Cybersecurity Analyst](https://img.shields.io/badge/Cybersecurity%20Analyst-IBM-121FCF?style=flat-square)](https://www.ibm.com/) [![Certified in Cybersecurity](https://img.shields.io/badge/Certified%20in%20Cybersecurity-ISC2-00A15D?style=flat-square)](https://www.isc2.org/)
