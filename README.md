@@ -1,4 +1,4 @@
-![Alt text](relative/path/to/image.png)
+![Banner](./banner.jpg)
 
 
 # Hi, there!👋
