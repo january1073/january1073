@@ -1,3 +1,6 @@
+![Alt text](relative/path/to/image.png)
+
+
 # Hi, there!👋
 
 I am Tim, a legal professional with a strong focus on Computers, Information Security, and Artificial Intelligence.
