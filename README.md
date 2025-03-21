@@ -3,7 +3,7 @@
 </h3>
 
 <p>
-  I am a legal professional with a strong focus on information security. In my spare time I attempt to code a little. Here I publish what worked. Although I use genai daily (incredibly useful for troubleshooting!), the code, scripts, and snippets shared here are 💯% handmade. It's not much yet -- but there is more to come soon ...
+  I am a legal professional with a strong focus on information security. In my spare time I attempt to code a little. Here I publish what works. Although I use genai daily (incredibly useful for troubleshooting!), the code, scripts, and snippets shared here are 💯% handmade. It's not much yet -- but there is more to come soon ...
 </p>
 
 <h4>
