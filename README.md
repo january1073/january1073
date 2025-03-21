@@ -11,9 +11,9 @@
 </h4>
 
 <p> 
-  <a href="https://x.com/january1073"><img src="https://img.shields.io/badge/X.com-lightgrey?style=flat-square" alt="Badge"></a>  
-  <a href="https://tryhackme.com/p/january1073"><img src="https://img.shields.io/badge/TryHackMe-lightgrey?style=flat-square" alt="Badge"></a>
-  <a href="https://www.linkedin.com/in/fongern" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-lightgrey?style=flat-square" alt="Badge"></a>
+  <a href="https://x.com/january1073"><img src="https://img.shields.io/badge/X.com-magenta?style=flat-square" alt="Badge"></a>  
+  <a href="https://tryhackme.com/p/january1073"><img src="https://img.shields.io/badge/TryHackMe-magenta?style=flat-square" alt="Badge"></a>
+  <a href="https://www.linkedin.com/in/fongern" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-magenta?style=flat-square" alt="Badge"></a>
 </p>
 
 <h4>
