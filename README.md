@@ -1,5 +1,5 @@
 <h3 align="center">
-  # Beginner programmer, learning Python, Shell Scripting, MySQL, and more
+  # Beginner programmer learning Python, Shell Scripting, MySQL, and more
 </h3>
 
 <p>
