@@ -5,15 +5,15 @@
 <h4>I work with (at) ...</h4>
 
 <p>
-    <img src="https://img.shields.io/badge/Python-black?style=flat-square" alt="Badge">
-    <img src="https://img.shields.io/badge/Shell%20Scripting-black?style=flat-square" alt="Badge">
-    <img src="https://img.shields.io/badge/MySQL-black?style=flat-square" alt="Badge">
-    <img src="https://img.shields.io/badge/YAML-black?style=flat-square" alt="Badge">
-    <img src="https://img.shields.io/badge/HTML-black?style=flat-square" alt="Badge">
-    <img src="https://img.shields.io/badge/CSS-black?style=flat-square" alt="Badge">
-    <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square" alt="Badge">
-    <img src="https://img.shields.io/badge/BASIC-black?style=flat-square" alt="Badge">
-    <img src="https://img.shields.io/badge/LaTeX-black?style=flat-square" alt="Badge">
+    <img src="https://img.shields.io/badge/Python-323232?style=flat-square" alt="Badge">
+    <img src="https://img.shields.io/badge/Shell%20Scripting-323232?style=flat-square" alt="Badge">
+    <img src="https://img.shields.io/badge/MySQL-323232?style=flat-square" alt="Badge">
+    <img src="https://img.shields.io/badge/YAML-323232?style=flat-square" alt="Badge">
+    <img src="https://img.shields.io/badge/HTML-323232?style=flat-square" alt="Badge">
+    <img src="https://img.shields.io/badge/CSS-323232?style=flat-square" alt="Badge">
+    <img src="https://img.shields.io/badge/JavaScript-323232?style=flat-square" alt="Badge">
+    <img src="https://img.shields.io/badge/BASIC-323232?style=flat-square" alt="Badge">
+    <img src="https://img.shields.io/badge/LaTeX-323232?style=flat-square" alt="Badge">
 </p>
 
 <p>
