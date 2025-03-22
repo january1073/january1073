@@ -17,6 +17,7 @@
 </p>
 
 <p>
+<img src="https://img.shields.io/badge/PyCharm-grey?style=flat-square" alt="Badge">
 <img src="https://img.shields.io/badge/Ansible-grey?style=flat-square" alt="Badge">
 <img src="https://img.shields.io/badge/Docker-grey?style=flat-square" alt="Badge">
 <img src="https://img.shields.io/badge/Kubernetes-grey?style=flat-square" alt="Badge">
@@ -29,8 +30,8 @@
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Networking-white?style=flat-square" alt="Badge">
-<img src="https://img.shields.io/badge/TCP%2FIP-white?style=flat-square" alt="Badge">
+<img src="https://img.shields.io/badge/Networking-ebebeb?style=flat-square" alt="Badge">
+<img src="https://img.shields.io/badge/TCP%2FIP-ebebeb?style=flat-square" alt="Badge">
 </p>
 
 <h4>Connect</h4>
