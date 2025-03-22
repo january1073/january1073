@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/YAML-323232?style=flat-square" alt="Badge">
     <img src="https://img.shields.io/badge/HTML-323232?style=flat-square" alt="Badge">
     <img src="https://img.shields.io/badge/CSS-323232?style=flat-square" alt="Badge">
-    <img src="https://img.shields.io/badge/JavaScript-323232?style=flat-square" alt="Badge">
+    <img src="https://img.shields.io/badge/JS-323232?style=flat-square" alt="Badge">
     <img src="https://img.shields.io/badge/BASIC-323232?style=flat-square" alt="Badge">
     <img src="https://img.shields.io/badge/LaTeX-323232?style=flat-square" alt="Badge">
 </p>
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/PyCharm-grey?style=flat-square" alt="Badge">
     <img src="https://img.shields.io/badge/Ansible-grey?style=flat-square" alt="Badge">
     <img src="https://img.shields.io/badge/Docker-grey?style=flat-square" alt="Badge">
-    <img src="https://img.shields.io/badge/Kubernetes-grey?style=flat-square" alt="Badge">
+    <img src="https://img.shields.io/badge/K8s-grey?style=flat-square" alt="Badge">
     <img src="https://img.shields.io/badge/Google%20Cloud-grey?style=flat-square" alt="Badge">
 </p>
 
