@@ -4,7 +4,12 @@
 
 <h4>I work with (at) ...</h4>
 
-wip
+<img src="https://img.shields.io/badge/Python-black?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/Shell%20Scripting-black?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/MySQL-black?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/YAML-black?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/HTML-black?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/CSS-black?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/JS-black?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/BASIC-black?style=flat-square" alt="Badge">
+<img src="https://img.shields.io/badge/Linux-grey?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/Windows-grey?style=flat-square" alt="Badge">
+
+<img src="https://img.shields.io/badge/Ansible-lightgrey?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/Docker-lightgrey?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/Kubernetes-lightgrey?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/Google%20Cloud-lightgrey?style=flat-square" alt="Badge">
+
+<img src="https://img.shields.io/badge/Networking-white?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/TCP%2FIP-white?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/LaTeX-white?style=flat-square" alt="Badge">
 
 <h4>Connect</h4>
 
