@@ -8,11 +8,9 @@
     <img src="https://img.shields.io/badge/Python-323232?style=flat-square" alt="Badge">
     <img src="https://img.shields.io/badge/Shell%20Scripting-323232?style=flat-square" alt="Badge">
     <img src="https://img.shields.io/badge/MySQL-323232?style=flat-square" alt="Badge">
-    <img src="https://img.shields.io/badge/YAML-323232?style=flat-square" alt="Badge">
     <img src="https://img.shields.io/badge/HTML-323232?style=flat-square" alt="Badge">
     <img src="https://img.shields.io/badge/CSS-323232?style=flat-square" alt="Badge">
     <img src="https://img.shields.io/badge/JavaScript-323232?style=flat-square" alt="Badge">
-    <img src="https://img.shields.io/badge/BASIC-323232?style=flat-square" alt="Badge">
     <img src="https://img.shields.io/badge/LaTeX-323232?style=flat-square" alt="Badge">
 </p>
 
