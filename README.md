@@ -32,6 +32,7 @@
 <p>
     <img src="https://img.shields.io/badge/Linux-ebebeb?style=flat-square" alt="Badge">
     <img src="https://img.shields.io/badge/Windows-ebebeb?style=flat-square" alt="Badge">
+    <img src="https://img.shields.io/badge/macOS-ebebeb?style=flat-square" alt="Badge">
 </p>
 
 <h4>Connect</h4>
