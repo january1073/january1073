@@ -1,6 +1,6 @@
 <h3 align="center">Beginner programmer learning Python, Shell Scripting, MySQL, and more</h3>
 
-<p>I am a lawyer with a strong focus on information security. In my spare time I try to code a little. Here I publish what works. Although I use genai daily (incredibly useful for troubleshooting!), the code, scripts, and snippets shared here are 💯% handmade. It's not much yet -- but there will be more soon ...</p>
+<p>I am a lawyer with a strong focus on information security. In my spare time I try to code a little. Here I publish what works. Although I use genai daily (incredibly useful for troubleshooting!), the code, scripts, and snippets shared here are &#128175;% handmade. It's not much yet -- but there will be more soon ...</p>
 
 <h4>I work with (at) ...</h4>
 
@@ -18,10 +18,10 @@
 
 <p>
     <img src="https://img.shields.io/badge/PyCharm-grey?style=flat-square" alt="Badge">
-    <img src="https://img.shields.io/badge/Ansible-grey?style=flat-square" alt="Badge">
     <img src="https://img.shields.io/badge/Docker-grey?style=flat-square" alt="Badge">
     <img src="https://img.shields.io/badge/Kubernetes-grey?style=flat-square" alt="Badge">
     <img src="https://img.shields.io/badge/Google%20Cloud-grey?style=flat-square" alt="Badge">
+    <img src="https://img.shields.io/badge/Ansible-grey?style=flat-square" alt="Badge">
 </p>
 
 <p>
