@@ -19,7 +19,6 @@
     <img src="https://img.shields.io/badge/Docker-grey?style=flat-square" alt="Badge">
     <img src="https://img.shields.io/badge/Kubernetes-grey?style=flat-square" alt="Badge">
     <img src="https://img.shields.io/badge/Google%20Cloud-grey?style=flat-square" alt="Badge">
-    <img src="https://img.shields.io/badge/Ansible-grey?style=flat-square" alt="Badge">
 </p>
 
 <p>
