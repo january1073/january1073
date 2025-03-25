@@ -2,7 +2,7 @@
 
 <p>I am a lawyer with a strong focus on information security. In my spare time I try to code a little. Here I share what works. Although I use genai daily (incredibly useful for troubleshooting!), the code, scripts, and snippets published here are &#128175;% handmade. It's not much yet &ndash; but there will be more soon ...</p>
 
-<h4>I work with (at) ...</h4>
+<h4>I work with / at ...</h4>
 
 <p>
     <img src="https://img.shields.io/badge/Python-323232?style=flat-square" alt="Badge">
