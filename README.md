@@ -21,4 +21,4 @@
 <a href="https://x.com/january1073"><img src="https://img.shields.io/badge/X.com-magenta?style=flat-square" alt="Badge"></a> <a href="https://tryhackme.com/p/january1073"><img src="https://img.shields.io/badge/TryHackMe-magenta?style=flat-square" alt="Badge"></a> <a href="https://www.linkedin.com/in/fongern" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-magenta?style=flat-square" alt="Badge"></a>
 
 #### Reach out
-<a href="mailto:january1073@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Email-323232?style=flat-square" alt="Badge"></a> <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/12E72BB71FE10C5C0BC5687B70493AE9DCEF9877" target="_blank"><img src="https://img.shields.io/badge/PGP Key-323232?style=flat-square&logo=gnuprivacyguard" alt="Badge"></a>
+<a href="mailto:january1073@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Email-magenta?style=flat-square" alt="Badge"></a> <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/12E72BB71FE10C5C0BC5687B70493AE9DCEF9877" target="_blank"><img src="https://img.shields.io/badge/PGP Key-magenta?style=flat-square&logo=gnuprivacyguard" alt="Badge"></a>
