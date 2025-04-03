@@ -18,7 +18,7 @@
 
 <img src="https://img.shields.io/badge/Python-323232?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/Shell%20Scripting-323232?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/MySQL-323232?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/HTML-323232?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/CSS-323232?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/JavaScript-323232?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/LaTeX-323232?style=flat-square" alt="Badge">
 
-<img src="https://img.shields.io/badge/Docker-grey?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/Kubernetes-grey?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/Google%20Cloud-grey?style=flat-square" alt="Badge">
+<img src="https://img.shields.io/badge/Docker-grey?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/Kubernetes-grey?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/Google%20Cloud-grey?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/Splunk-grey?style=flat-square" alt="Badge">
 
 <img src="https://img.shields.io/badge/Networking-lightgrey?style=flat-square" alt="Badge"> <img src="https://img.shields.io/badge/TCP%2FIP-lightgrey?style=flat-square" alt="Badge">
 
