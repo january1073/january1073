@@ -23,3 +23,4 @@
 <a href="https://www.linkedin.com/in/fongern" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge" alt="Badge"></a>
 <a href="https://tryhackme.com/p/january1073"><img src="https://img.shields.io/badge/TryHackMe-grey?style=for-the-badge" alt="Badge"></a>
 <a href="mailto:january1073@proton.me" target="_blank"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge" alt="Badge"></a>
+<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/56F2FDCC2EF4D52A3F597815AE34888E8EDC586C" target="_blank"><img src="https://img.shields.io/badge/PGP%20Key-black?style=for-the-badge&logo=gnuprivacyguard" alt="Badge"></a>
