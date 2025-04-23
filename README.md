@@ -15,7 +15,6 @@
         "*$bd$$$$      '*$$$$$$$$$$$o+#" 
              """"          """"""" 
 ```
-### Portfolio
 <img src="https://img.shields.io/badge/Portfolio-magenta?style=for-the-badge&link=https%3A%2F%2Fjanuary1073.github.io%2F" alt="Badge">
 
 ### Connect
