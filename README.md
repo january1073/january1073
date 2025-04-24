@@ -1,11 +1,18 @@
 ```
-   ██╗ █████╗ ███╗   ██╗
-   ██║██╔══██╗████╗  ██║
-   ██║███████║██╔██╗ ██║
-██╗██║██╔══██║██║╚██╗██║
-╚████║██║  ██║██║ ╚████║
- ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝
-    1 0 7 3
+ ______________________________________
+/ Beginner programmer learning Python, \
+\ MySQL, shell scripting, and more ... /
+ --------------------------------------
+  \            .    .     .   
+   \      .  . .     `  ,     
+    \    .; .  : .' :  :  : . 
+     \   i..`: i` i.i.,i  i . 
+      \   `,--.|i |i|ii|ii|i: 
+           UooU\.'@@@@@@`.||' 
+           \__/(@@@@@@@@@@)'  
+                (@@@@@@@@)    
+                `YY~~~~YY'    
+                 ||    ||   
 ```
 ## Reach out
 <a href="https://january1073.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-magenta?style=flat-square" alt="Badge"></a>
