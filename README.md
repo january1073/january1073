@@ -1,20 +1,3 @@
-```
- ______________________________________
-/ Beginner programmer learning Python, \
-\ MySQL, shell scripting, and more ... /
- --------------------------------------
-  \            .    .     .   
-   \      .  . .     `  ,     
-    \    .; .  : .' :  :  : . 
-     \   i..`: i` i.i.,i  i . 
-      \   `,--.|i |i|ii|ii|i: 
-           UooU\.'@@@@@@`.||' 
-           \__/(@@@@@@@@@@)'  
-                (@@@@@@@@)    
-                `YY~~~~YY'    
-                 ||    ||   
-```
-## Reach out
 <a href="https://january1073.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-magenta?style=flat-square" alt="Badge"></a>
 <a href="https://x.com/january1073" target="_blank"><img src="https://img.shields.io/badge/X.com-grey?style=flat-square" alt="Badge"></a>
 <a href="https://infosec.exchange/@january1073" target="_blank"><img src="https://img.shields.io/badge/Mastodon-grey?style=flat-square" alt="Badge"></a>
