@@ -5,4 +5,4 @@
 <a href="https://medium.com/@january1073" target="_blank"><img src="https://img.shields.io/badge/Medium-grey?style=flat-square" alt="Badge"></a>
 <a href="https://www.linkedin.com/in/fongern" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-grey?style=flat-square" alt="Badge"></a>
 <a href="https://tryhackme.com/p/january1073"><img src="https://img.shields.io/badge/TryHackMe-grey?style=flat-square" alt="Badge"></a>
-<a href="https://january1073.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-magenta?style=flat-square" alt="Badge"></a>
+<a href="https://january1073.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-white?style=flat-square" alt="Badge"></a>
