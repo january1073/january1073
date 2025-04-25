@@ -1,4 +1,4 @@
-### Freelancer | Google Cloud, IBM, & ISC2 Certified | THM Player
+### Google Cloud, IBM, & ISC2 Certified | THM Player
 <a href="mailto:january1073@proton.me" target="_blank"><img src="https://img.shields.io/badge/Email-grey?style=flat-square" alt="Badge"></a>
 <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/56F2FDCC2EF4D52A3F597815AE34888E8EDC586C" target="_blank"><img src="https://img.shields.io/badge/PGP%20key-grey?style=flat-square&logo=gnuprivacyguard" alt="Badge"></a>
 <a href="https://x.com/january1073" target="_blank"><img src="https://img.shields.io/badge/X.com-lightgrey?style=flat-square" alt="Badge"></a>
