@@ -4,7 +4,7 @@
     ▌█▌▌▌▙▌█▌▌ ▙▌
    ▙▌1073      ▄▌
 ```
-#### Lawyer | Google Cloud, IBM, & ISC2 certified | THM player
+#### Lawyer | Information Security | Google Cloud, IBM, & ISC2 Certified | THM Player
 
 <a href="https://x.com/january1073" target="_blank"><img src="https://img.shields.io/badge/X.com-white?style=flat-square" alt="Badge"></a>
 <a href="https://infosec.exchange/@january1073" target="_blank"><img src="https://img.shields.io/badge/Mastodon-white?style=flat-square" alt="Badge"></a>
