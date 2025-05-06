@@ -1,6 +1,6 @@
-#### Lawyer | Information Security | Google Cloud, IBM, & ISC2 Certified | THM Player
-
 <img src="https://github.com/january1073/january1073.github.io/blob/main/img/spaceship001.jpg">
+
+#### Lawyer | Information Security | Google Cloud, IBM, & ISC2 Certified | THM Player
 
 <a href="https://january1073.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-black?style=flat-square" alt="Badge"></a>
 <a href="https://infosec.exchange/@january1073" target="_blank"><img src="https://img.shields.io/badge/Mastodon-black?style=flat-square" alt="Badge"></a>
