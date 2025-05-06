@@ -1,6 +1,5 @@
 #### Lawyer | Information Security | Google Cloud, IBM, & ISC2 Certified | THM Player
 
-<a href="https://january1073.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-black?style=flat-square" alt="Badge"></a>
 <a href="https://infosec.exchange/@january1073" target="_blank"><img src="https://img.shields.io/badge/Mastodon-black?style=flat-square" alt="Badge"></a>
 <a href="https://tryhackme.com/p/january1073"><img src="https://img.shields.io/badge/TryHackMe-black?style=flat-square" alt="Badge"></a>
 <a href="https://january1073.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=flat-square" alt="Badge"></a>
