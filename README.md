@@ -1,5 +1,3 @@
-# 💻 Terminal Shortcuts
-
 - **Auto-complete:** `[TAB]`
 - **Cursor**
     - `[CTRL] + A/E` - Start/end of line
