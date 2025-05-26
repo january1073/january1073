@@ -1,23 +1,22 @@
+# 💻 Terminal Shortcuts
+
 - **Auto-complete:** `[TAB]`
-- **Cursor movement**
-    - `[CTRL] + A` - Beginning of line
-    - `[CTRL] + E` - End of line
-    - `[CTRL] + [←] / [→]` - Jump to beginning/previous word
-    - `[ALT] + B / F` - Jump backward/forward one word
-- **Text editing & deletion**
-    - `[CTRL] + U` - Erase to beginning of line
-    - `[CTRL] + K` - Erase to end of line
-    - `[CTRL] + W` - Erase preceding word
-    - `[CTRL] + Y` - Paste erased text
-- **Process management**
-    - `[CTRL] + C` - Kill process
-    - `[CTRL] + D` - Close STDIN/EOF
-    - `[CTRL] + Z` - Suspend process
-- **Terminal control**
-    - `[CTRL] + L` - Clear terminal
-    - `[CTRL] + [+]` - Zoom in
-    - `[CTRL] + [-]` - Zoom out
-- **Command history**
-    - `[CTRL] + R` - Search command history
-    - `[↑] / [↓]` - Previous/next command
-- **Application switch:** `[ALT] + [TAB]`
+- **Cursor**
+    - `[CTRL] + A/E` - Start/end of line
+    - `[CTRL] + [←]/[→]` - Jump to word start/previous
+    - `[ALT] + B/F` - Jump backward/forward word
+- **Text edit**
+    - `[CTRL] + U/K` - Erase to start/end of line
+    - `[CTRL] + W` - Erase word
+    - `[CTRL] + Y` - Paste
+- **Process**
+    - `[CTRL] + C` - Kill
+    - `[CTRL] + D` - EOF
+    - `[CTRL] + Z` - Suspend
+- **Terminal**
+    - `[CTRL] + L` - Clear
+    - `[CTRL] + [+]/[-]` - Zoom in/out
+- **History**
+    - `[CTRL] + R` - Search
+    - `[↑]/[↓]` - Previous/next
+- **App switch:** `[ALT] + [TAB]`
