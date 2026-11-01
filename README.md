@@ -1,4 +1,4 @@
-<img src="sleep.webp" alt="sleep"> **This GitHub account is no longer actively maintained.**
+❗ **This GitHub account is no longer actively maintained.**
 
 Only two public archives remain here, because other resources still link to them. Both repositories will not receive updates.
 
