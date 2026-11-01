@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="sleep.webp" alt="sleep" width="300">
-</p>
+<img src="sleep.webp" alt="sleep" width="300">
 
 **This GitHub account is no longer actively maintained.**
 
